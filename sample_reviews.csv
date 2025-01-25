@@ -1,0 +1,8 @@
+
+feedback_id,feedback_sentiment,feedback,feedback_received_on
+1,positive,"Great product! Highly recommend.",25-01-2025
+2,neutral,"The product is okay, could be improved.",24-01-2024
+3,negative,"Not happy with the product, it broke after a week.",23-01-2023
+4,positive,"Good value for money.",15-01-2025
+5,negative,"Very poor quality.",18-01-2024
+6,neutral,"It works, but could be improved.",20-12-2023
