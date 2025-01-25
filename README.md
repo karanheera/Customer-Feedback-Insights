@@ -107,6 +107,6 @@ Contributions are welcome! If you find a bug or want to add a feature, feel free
 For any questions or inquiries, please contact the project maintainer:
 
 **Karan Heera**  
-LinkedIn: https://www.linkedin.com/in/karanheera/
-GitHub: https://github.com/karanheera
+- LinkedIn: https://www.linkedin.com/in/karanheera/
+- GitHub: https://github.com/karanheera
 ```
