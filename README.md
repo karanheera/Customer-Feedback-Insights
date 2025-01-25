@@ -75,6 +75,8 @@ On the sidebar, you will find an option to upload a CSV file containing customer
 - **feedback**: The actual customer feedback text.
 - **feedback_received_on**: The date the feedback was received (in DD-MM-YYYY format).
 
+You can also download the **Sample CSV** from the sidebar and update the data in it
+
 ### Filter by Date Range
 Choose a custom date range or predefined ranges (Last 7 Days, Last 30 Days, etc.) to analyze feedback from specific time periods.
 
