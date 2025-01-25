@@ -36,7 +36,7 @@ To run this project locally, you need to have Python installed. You also need to
 
 2. Navigate to the project directory:
    ```bash
-   cd Customer Feedback Analysis via CSV Using Python and Streamlit
+   cd customer-feedback-analysis-csv-python-streamlit
    ```
 
 3. Install the required dependencies using pip:
@@ -55,7 +55,7 @@ The app will start running on your local server, usually at [http://localhost:85
 ## File Structure
 
 ```plaintext
-/Customer Feedback Analysis via CSV Using Python and Streamlit
+/customer-feedback-analysis-csv-python-streamlit
 │
 ├── app.py              # The main Customer Feedback Analysis file
 ├── CODE_OF_CONDUCT.md  # The Code of Conduct file
