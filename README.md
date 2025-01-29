@@ -1,4 +1,4 @@
-# Comprehensive Customer Feedback Analysis via CSV using Python & Streamlit
+# Comprehensive Customer Feedback Analysis via CSV App : using Python & Streamlit
 
 ## Description
 
@@ -31,12 +31,12 @@ To run this project locally, you need to have Python installed. You also need to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karanheera/customer-feedback-analysis-csv-python-streamlit.git
+   git clone https://github.com/karanheera/Feedback-Analysis-via-CSV-App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd customer-feedback-analysis-csv-python-streamlit
+   cd Feedback-Analysis-via-CSV-App
    ```
 
 3. Install the required dependencies using pip:
