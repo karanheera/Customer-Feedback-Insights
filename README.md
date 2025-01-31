@@ -32,12 +32,12 @@ To run this project locally, you need to have Python installed. You also need to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karanheera/Feedback-Analysis-via-CSV-App.git
+   git clone https://github.com/karanheera/Customer-Feedback-Insights.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Feedback-Analysis-via-CSV-App
+   cd Customer-Feedback-Insights
    ```
 
 3. Install the required dependencies using pip:
