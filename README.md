@@ -1,9 +1,9 @@
-# Customer Feedback Analysis via CSV App : <br> (Using Python & Streamlit)
+# Customer-Feedback-Insights : <br> (Using Python & Streamlit)
 
+**Unlock the Hidden Truth in Your Customer Feedback: Instant Sentiment Analysis & Visualizations!**
 
 ## Description
-
-This app allows businesses and companies to analyze and visualize customer feedback from CSV files. It categorizes the feedback into **positive**, **neutral**, and **negative** sentiments and provides visualizations such as bar plots and pie charts to help stakeholders quickly identify sentiment trends and gain actionable insights.
+Transform your customer feedback into actionable insights with this powerful analysis tool! Upload your CSV file, and watch as it automatically categorizes reviews into positive, neutral, and negative sentiments. Visualize your data with stunning charts, compare feedback year-over-year, and easily download filtered data for your reports. Say goodbye to guesswork and discover exactly where your business stands with your customers. Start making smarter decisions now!
 
 ### Key Features:
 - **Sentiment Analysis**: Automatically classifies feedback into **positive**, **neutral**, and **negative** sentiments.
